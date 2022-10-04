@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\mopa\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj": {
+    "C:\\Users\\Admin\\Desktop\\mopa\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\mopa\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj",
         "projectName": "arv-och-objektorientering-interface",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\mopa\\arv-och-objektorientering-interface\\arv-och-objektorientering-interface.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\arv-och-objektorientering-interface\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\mopa\\arv-och-objektorientering-interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

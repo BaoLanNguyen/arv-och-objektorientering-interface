@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\bin\Debug\net6.0\arv-och-objektorientering-interface.exe
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\bin\Debug\net6.0\arv-och-objektorientering-interface.deps.json
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\bin\Debug\net6.0\arv-och-objektorientering-interface.runtimeconfig.json
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\bin\Debug\net6.0\arv-och-objektorientering-interface.dll
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\bin\Debug\net6.0\arv-och-objektorientering-interface.pdb
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.AssemblyInfo.cs
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.dll
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\refint\arv-och-objektorientering-interface.dll
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.pdb
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\arv-och-objektorientering-interface.genruntimeconfig.cache
+C:\Users\Admin\Desktop\mopa\arv-och-objektorientering-interface\obj\Debug\net6.0\ref\arv-och-objektorientering-interface.dll
