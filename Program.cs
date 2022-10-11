@@ -14,17 +14,17 @@ internal class Program
         if (shape == "rectangle")
         {
             rectangle.Area(W, H);
-            rectangle.Circumferance(W, H);
+            rectangle.Circumference(W, H);
         }
         else if (shape == "triangle")
         {
             triangle.Area(W, H);
-            triangle.Circumferance(W, H);
+            triangle.Circumference(W, H);
         }
         else if (shape == "circle")
         {
             circle.Area(W, H);
-            circle.Circumferance(W, H);            
+            circle.Circumference(W, H);            
         }
         else
         {

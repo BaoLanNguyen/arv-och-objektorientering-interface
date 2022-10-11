@@ -8,6 +8,6 @@ namespace arv_och_objektorientering_interface
     public interface IShape
     {
         void Area(int width, int height);
-        void Circumferance(int width, int height);
+        void Circumference(int width, int height);
     }
 }

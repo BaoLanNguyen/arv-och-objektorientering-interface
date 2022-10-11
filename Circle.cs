@@ -11,7 +11,7 @@ namespace arv_och_objektorientering_interface
             Console.WriteLine("Area is "+Math.PI * height* height / 4+".");
         }
         public void Circumferance(int width, int height){
-            Console.WriteLine("Circumferance is " +Math.PI * height+".");
+            Console.WriteLine("Circumference is " +Math.PI * height+".");
         }
     }
 }
