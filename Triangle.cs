@@ -7,13 +7,21 @@ namespace arv_och_objektorientering_interface
 {
     public class Triangle: IShape
     {
-        public void Area(int width, int height){
-            Console.WriteLine("Area is " + width*height/2 + ".");
+        int width;
+        int height;
+
+        public Triangle(int width, int height)
+        {
+            this.width = width;
+            this.height = height;
         }
-        public void Circumference(int width, int height){
+
+        public int Area(){
+            return width*height/2;
+        }
+        public int Circumference(){
             double pyth = Math.Sqrt(width*width+height*height);
-            int omk = (int)pyth+width+height;
-            Console.WriteLine("Circumference is " + omk + ".");
+            return (int)pyth+width+height;
         }
     }
 }

@@ -7,11 +7,18 @@ namespace arv_och_objektorientering_interface
 {
     public class Circle: IShape
     {
-        public void Area(int width, int height){
-            Console.WriteLine("Area is "+Math.PI * height* height / 4+".");
+        int width;
+        int height;
+        public Circle(int width, int height)
+        {
+            this.width = width;
+            this.height = height;
         }
-        public void Circumferance(int width, int height){
-            Console.WriteLine("Circumference is " +Math.PI * height+".");
+        public int Area(){
+            return (int)Math.PI * height* height / 4;
+        }
+        public int Circumference(){
+            return (int)Math.PI * height;
         }
     }
 }
